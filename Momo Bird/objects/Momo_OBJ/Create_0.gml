@@ -1,0 +1,1 @@
+score = 0; //player starts out with a score of 0
